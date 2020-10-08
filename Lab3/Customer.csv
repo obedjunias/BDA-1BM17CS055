@@ -1,0 +1,10 @@
+{"_id":1.0,"Name":"Obed","CustomerID":"CUS11","Balance":1600.0,"AccountType":"A"}
+{"_id":2.0,"Name":"Niranjan","CustomerID":"CUS10","Balance":1500.0,"AccountType":"Z"}
+{"_id":3.0,"Name":"Raghavendra","CustomerID":"CUS12","Balance":1000.0,"AccountType":"Z"}
+{"_id":4.0,"Name":"Shreyas","CustomerID":"CUS13","Balance":10000.0,"AccountType":"A"}
+{"_id":5.0,"Name":"Tarun","CustomerID":"CUS14","Balance":800.0,"AccountType":"Z"}
+{"_id":6.0,"Name":"Obed","CustomerID":"CUS11","Balance":1000.0,"AccountType":"A"}
+{"_id":7.0,"Name":"Shreyas","CustomerID":"CUS13","Balance":12000.0,"AccountType":"A"}
+{"_id":8.0,"Name":"Tarun","CustomerID":"CUS14","Balance":1800.0,"AccountType":"Z"}
+{"_id":9.0,"Name":"Niranjan","CustomerID":"CUS10","Balance":15000.0,"AccountType":"Z"}
+{"_id":10.0,"Name":"Raghavendra","CustomerID":"CUS12","Balance":800.0,"AccountType":"Z"}
